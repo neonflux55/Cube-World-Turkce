@@ -2,74 +2,74 @@
 
 <root>
 
-  <name key="Wizard" tags="m">
-    <singular>Wizard</singular>    
-    <plural>Wizard</plural>
+  <name key="Büyücü" tags="m">
+    <singular>Büyücü</singular>    
+    <plural>Büyücüler</plural>
   </name>
 
-  <name key="OldMan" tags="m an">
-    <singular>old Man</singular>   
-    <plural>old Men</plural>
+  <name key="YaşlıAdam" tags="m an">
+    <singular>Yaşlı Adam</singular>   
+    <plural>Yaşlı Adamlar</plural>
   </name>
 
-  <name key="LizardmanMale" tags="m">
-    <singular>Lizardman</singular>
-    <plural>Lizardmen</plural>
+  <name key="Kertenkeleadam" tags="m">
+    <singular>Kertenkele Adam</singular>
+    <plural>Kertenkele Adamlar</plural>
   </name>
 
-  <name key="LizardmanFemale" tags="m">
-    <singular>Lizardman</singular>
-    <plural>Lizardmen</plural>
+  <name key="Kertenkele Kadın" tags="m">
+    <singular>Kertenkele kadın</singular>
+    <plural>Kertenkele Kadınlar</plural>
   </name>
 
-  <name key="GoblinMale" tags="m">
-    <singular>Goblin</singular>
-    <plural>Goblins</plural>
+  <name key="CinErkek" tags="m">
+    <singular>Cin</singular>
+    <plural>Cinler</plural>
   </name>
 
-  <name key="GoblinFemale" tags="f">
-    <singular>Goblin</singular>
-    <plural>Goblins</plural>
+  <name key="CinKadın" tags="f">
+    <singular>Cin</singular>
+    <plural>Cinler</plural>
   </name>
 
-  <name key="Crow" tags="f">
+  <name key="Karga" tags="f">
     <singular>Karga</singular>
-    <plural>Crows</plural>
+    <plural>Kargalar</plural>
   </name>
 
-  <name key="Parrot" tags="m">
-    <singular>Parrot</singular>
-    <plural>Parrots</plural>
+  <name key="Papağan" tags="m">
+    <singular>Papağan</singular>
+    <plural>Papağanlar</plural>
   </name>
 
-  <name key="Peacock" tags="m">
-    <singular>Peacock</singular>
-    <plural>Peacocks</plural>
+  <name key="Tavuskuşu" tags="m">
+    <singular>Tavuskuşu</singular>
+    <plural>Tavuskuşları</plural>
   </name>
 
-  <name key="Seagull" tags="f">
-    <singular>Seagull</singular>
-    <plural>Seagulls</plural>
+  <name key="Martı" tags="f">
+    <singular>Martı</singular>
+    <plural>Martılar</plural>
   </name>
 
-  <name key="Bat" tags="f">
-    <singular>Bat</singular>
-    <plural>Bats</plural>
+  <name key="Yarasa" tags="f">
+    <singular>Yarasa</singular>
+    <plural>Yarasalar</plural>
   </name>
 
-  <name key="Hornet" tags="f">
-    <singular>Hornet</singular>
-    <plural>Hornets</plural>
+  <name key="EşekArısı" tags="f">
+    <singular>Eşek Arısı</singular>
+    <plural>Eşek Arıları</plural>
   </name>
 
-  <name key="Bumblebee" tags="f">
-    <singular>Bumblebee</singular>
-    <plural>Bumblebees</plural>
+  <name key="YabanArısı" tags="f">
+    <singular>Yaban Arısı</singular>
+    <plural>Yaban Arıları</plural>
   </name>
 
   <name key="Koala" tags="f">
     <singular>Koala</singular>
-    <plural>Koalas</plural>
+    <plural>Koalalar</plural>
   </name>
 
 
@@ -78,64 +78,64 @@
     <plural>Insect Guards</plural>
   </name>
 
-  <name key="PlainRunner" tags="m">
-    <singular>Plain Runner</singular>
-    <plural>Plain Runners</plural>
+  <name key="OvaKoşucusu" tags="m">
+    <singular>Ova Koşucusu</singular>
+    <plural>Ova Koşucuları</plural>
   </name>
 
-  <name key="LeafRunner" tags="m">
-    <singular>Leaf Runner</singular>
-    <plural>Leaf Runners</plural>
+  <name key="YaprakKoşucusu" tags="m">
+    <singular>Yaprak Koşucusu</singular>
+    <plural>Yaprak Koşucuları</plural>
   </name>
 
-  <name key="SnowRunner" tags="m">
-    <singular>Snow Runner</singular>
-    <plural>Snow Runners</plural>
+  <name key="KarKoşucusu" tags="m">
+    <singular>Kar Koşucusu</singular>
+    <plural>Kar Koşucuları</plural>
   </name>
 
-  <name key="DesertRunner" tags="m">
-    <singular>Desert Runner</singular>
-    <plural>Desert Runners</plural>
+  <name key="ÇölKoşucusu" tags="m">
+    <singular>Çöl Koşucusu</singular>
+    <plural>Çöl Koşucuları</plural>
   </name>
 
-  <name key="Frog" tags="m">
-    <singular>Frog</singular>
-    <plural>Frogs</plural>
+  <name key="Kurbağa" tags="m">
+    <singular>Kurbağa</singular>
+    <plural>Kurbağalar</plural>
   </name>
 
-  <name key="DwarfMale" tags="m">
-    <singular>Dwarf</singular>
-    <plural>Dwarves</plural>
+  <name key="CüceErkek" tags="m">
+    <singular>Cüce</singular>
+    <plural>Cüceler</plural>
   </name>
 
-  <name key="DwarfFemale" tags="f">
-    <singular>Dwarf</singular>
-    <plural>Dwarves</plural>
+  <name key="CüceKadın" tags="f">
+    <singular>Cüce</singular>
+    <plural>Cüceler</plural>
   </name>
 
-  <name key="FrogmanMale" tags="m">
-    <singular>Frogman</singular>
-    <plural>Frogmen</plural>
+  <name key="KurbağaAdam" tags="m">
+    <singular>Kurbağa Adam</singular>
+    <plural>Kurbağa Adamlar</plural>
   </name>
 
-  <name key="FrogmanFemale" tags="f">
-    <singular>Frogman</singular>
-    <plural>Frogmen</plural>
+  <name key="KurbağaKadın" tags="f">
+    <singular>Kurbağa Kadın</singular>
+    <plural>Kurbağa Kadınlar</plural>
   </name>
 
-  <name key="Mole" tags="m">
-    <singular>Mole</singular>
-    <plural>Moles</plural>
+  <name key="Köstebek" tags="m">
+    <singular>Köstebek</singular>
+    <plural>Köstebekler</plural>
   </name>
 
   <name key="Horus" tags="m">
-    <singular>Ancient Guardian</singular>
-    <plural>Ancient Guardian</plural>
+    <singular>Eski Muhafız</singular>
+    <plural>Eski Muhafız</plural>
   </name>
 
   <name key="Anubis" tags="m">
-    <singular>Ancient Guardian</singular>
-    <plural>Ancient Guardian</plural>
+    <singular>Eski Muhafız</singular>
+    <plural>Eski Muhafız</plural>
   </name>
 
   <name key="Biter" tags="m">
@@ -143,14 +143,14 @@
     <plural>Biters</plural>
   </name>
 
-  <name key="Squirrel" tags="m">
-    <singular>Squirrel</singular>
-    <plural>Squirrels</plural>
+  <name key="Sincap" tags="m">
+    <singular>Sincap</singular>
+    <plural>Sincaplar</plural>
   </name>
 
-  <name key="Raccoon" tags="m">
-    <singular>Raccoon</singular>
-    <plural>Raccoons</plural>
+  <name key="Rakun" tags="m">
+    <singular>Rakun</singular>
+    </plural>Rakun</plural>
   </name>
 
   <name key="Duckbill" tags="n">
